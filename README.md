@@ -6,7 +6,7 @@
 
 A simple, zero-dependency library for working with types. Supports Java 1.6+ and Android.
 
-## Introduction
+## Introduction ---
 
 One of the sore points with Java involves working with type information. In particular, Java's generics do not provide a way to resolve or reify the type information for a given class. TypeTools looks to solve this by fully resolving generic type information declared on any class, interface, lambda expression or method.
 
